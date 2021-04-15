@@ -1,0 +1,9 @@
+tst@staff.sina.com.cn
+
+cmdb.sina.com.cn
+
+
+user:sina
+password:sinapassword
+
+passwd
